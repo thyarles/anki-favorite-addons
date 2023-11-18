@@ -1,0 +1,1 @@
+{"name": "Scroll in reviewer with vivim-like keys j and k", "mod": 1630795878, "min_point_version": 35, "max_point_version": 35, "branch_index": 0, "disabled": false, "config": {"Shift_J_scroll_distance": 150, "Shift_K_scroll_distance": 150, "j_scroll_distance": 300, "k_scroll_distance": 300}}

@@ -1,0 +1,10 @@
+{
+  "add tag shortcut": "q",
+  "edit tag shortcut": "w",
+  "quick tags": {
+    "Shift+N": { "tags": "ExampleOfTagNothing" },
+    "Shift+B": { "tags": "ExampleOfBuriedCard", "action": "bury card" },
+    "Ctrl+Shift+B": { "tags": "ExampleOfBuriedNote", "action": "bury note" },
+    "Shift+S": { "tags": "ExampleOfSuspend", "action": "suspend card" }
+  }
+}
